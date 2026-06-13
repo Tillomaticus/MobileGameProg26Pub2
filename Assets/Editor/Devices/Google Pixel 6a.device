@@ -1,0 +1,136 @@
+{
+    "friendlyName": "Google Pixel 6a",
+    "version": 1,
+    "screens": [
+        {
+            "width": 1080,
+            "height": 2400,
+            "navigationBarHeight": 132,
+            "dpi": 429.0,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1080.0,
+                        "height": 2268.0
+                    },
+                    "cutouts": [
+                        {
+                            "serializedVersion": "2",
+                            "x": 420.0,
+                            "y": 0.0,
+                            "width": 240.0,
+                            "height": 240.0
+                        }
+                    ]
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 240.0,
+                        "width": 1080.0,
+                        "height": 2268.0
+                    },
+                    "cutouts": [
+                        {
+                            "serializedVersion": "2",
+                            "x": 0.0,
+                            "y": 420.0,
+                            "width": 240.0,
+                            "height": 240.0
+                        }
+                    ]
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 240.0,
+                        "y": 0.0,
+                        "width": 2268.0,
+                        "height": 1080.0
+                    },
+                    "cutouts": [
+                        {
+                            "serializedVersion": "2",
+                            "x": 0.0,
+                            "y": 420.0,
+                            "width": 240.0,
+                            "height": 240.0
+                        }
+                    ]
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2268.0,
+                        "height": 1080.0
+                    },
+                    "cutouts": [
+                        {
+                            "serializedVersion": "2",
+                            "x": 420.0,
+                            "y": 0.0,
+                            "width": 240.0,
+                            "height": 240.0
+                        }
+                    ]
+                }
+            ],
+            "presentation": {
+                "overlayPath": "DeviceOverlays/Google Pixel 5_Overlay.png",
+                "borderSize": {
+                    "x": 60.0,
+                    "y": 60.0,
+                    "z": 60.0,
+                    "w": 60.0
+                },
+                "cornerRadius": 150.0
+            }
+        }
+    ],
+    "systemInfo": {
+        "deviceModel": "Google Pixel 6a",
+        "deviceType": 1,
+        "operatingSystem": "Android OS 12 / API‑based",
+        "operatingSystemFamily": 0,
+        "processorCount": 8,
+        "processorFrequency": 2800,
+        "processorType": "Google Tensor (ARM64)",
+        "supportsAccelerometer": true,
+        "supportsAudio": true,
+        "supportsGyroscope": true,
+        "supportsLocationService": true,
+        "supportsVibration": true,
+        "systemMemorySize": 6144,
+        "graphicsDependentData": [
+            {
+                "graphicsDeviceType": 21,
+                "graphicsMemorySize": 2048,
+                "graphicsDeviceName": "Mali‑G78 MP20",
+                "graphicsDeviceVendor": "ARM",
+                "graphicsDeviceID": 0,
+                "graphicsDeviceVendorID": 0,
+                "graphicsUVStartsAtTop": true,
+                "graphicsDeviceVersion": "Vulkan",
+                "graphicsShaderLevel": 50,
+                "graphicsMultiThreaded": true,
+                "supportedRenderTargetCount": 8,
+                "supportsInstancing": true,
+                "usesReversedZBuffer": true,
+                "maxTextureSize": 16384,
+                "maxCubemapSize": 16384,
+                "ldrGraphicsFormat": 8,
+                "hdrGraphicsFormat": 74
+            }
+        ]
+    }
+}
